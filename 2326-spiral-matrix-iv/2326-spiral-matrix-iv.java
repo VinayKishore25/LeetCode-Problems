@@ -10,9 +10,10 @@
  */
 class Solution {
     public int[][] spiralMatrix(int m, int n, ListNode head) {
-        int[][] res = new int[m][n];
-        for(int[] row : res){
-            Arrays.fill(row,-1);
+        int[][] res = new int[m][];
+        for (int i = 0; i < m; i++) {
+            res[i] = new int[n];
+            Arrays.fill(res[i], -1);
         }
         int rs = 0 , re = m - 1 , cs = 0 , ce = n -1;
         while(head != null){

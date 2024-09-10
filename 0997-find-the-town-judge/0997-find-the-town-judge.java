@@ -16,7 +16,6 @@ class Solution {
                 hm.put(trust[i][1],hm.getOrDefault(trust[i][1],0)+1);
             }
         }
-        System.out.println(hm);
         HashSet<Integer> hs = new HashSet<>();
         int max = 0;
         for(int each : hm.values())

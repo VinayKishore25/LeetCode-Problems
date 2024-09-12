@@ -1,27 +1,24 @@
 class Solution {
-    public boolean isValid(String s, HashSet<Character> hs){
-        int n = s.length();
-        for(int i = 0 ; i < n ; i++)
-        {
-            if(!hs.contains(s.charAt(i))){
-                return false;
-            }
-        }
-        return true;
-    }
     public int countConsistentStrings(String allowed, String[] words) {
+        int n = allowed.length();
         HashSet<Character> hs = new HashSet<>();
-        
-        for(char each : allowed.toCharArray())
-        {
-            hs.add(each);
+        for(int i = 0 ; i < n ; i++){
+            hs.add(allowed.charAt(i));
         }
-        int n = words.length;
+        n = words.length;
         int count = 0;
         for(int i = 0 ; i < n ; i++){
-            if(isValid(words[i],hs)){
+            int len = words[i].length();
+            int j = 0;
+            for(j = 0 ; j < len ; j++){
+                if(!hs.contains(words[i].charAt(j))) {
+                    break;
+                }
+            }
+            if(j == len){
                 count++;
             }
+
         }
         return count;
     }

@@ -1,19 +1,24 @@
 class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
-        int[][] newMatrix = new int[n][n];
+        // int[][] newMatrix = new int[n][n];
         for(int i = 0 ; i < n ; i++)
         {
-            for(int j = 0 ; j < n ; j++)
+            for(int j = i+1 ; j < n; j++)
             {
-                newMatrix[i][j] = matrix[n - j - 1][n - i - 1];
+                int temp = matrix[i][j];
+                matrix[i][j] = matrix[j][i];
+                matrix[j][i] = temp;
             }
         }
+        // System.out.println(Arrays.deepToString(matrix));
         for(int i = 0 ; i < n ; i++)
         {
-            for(int j = 0 ; j < n ; j++)
+            for(int j = 0 ; j < n/2 ; j++)
             {
-                matrix[i][j] = newMatrix[n - i - 1][j];
+                int temp = matrix[i][n - j - 1];
+                matrix[i][n - j - 1] = matrix[i][j];
+                matrix[i][j] = temp;
             }
         }
     }

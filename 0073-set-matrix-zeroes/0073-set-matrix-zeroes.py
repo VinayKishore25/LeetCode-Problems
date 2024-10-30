@@ -5,19 +5,18 @@ class Solution:
         """
         n = len(matrix)
         m = len(matrix[0])
+        row_set = set()
+        col_set = set()
         for i in range(n):
             for j in range(m):
                 if matrix[i][j] == 0:
-                    for k in range(m):
-                        if matrix[i][k] != 0:
-                            matrix[i][k] = -1
-                    for k in range(n):
-                        if matrix[k][j] != 0:
-                            matrix[k][j] = -1
-
-        for i in range(n):
+                    row_set.add(i)
+                    col_set.add(j)
+        for i in row_set:
             for j in range(m):
-                if matrix[i][j] == -1:
-                    matrix[i][j] = 0
+                matrix[i][j] = 0
+        for j in col_set:
+            for i in range(n):
+                matrix[i][j] = 0
 
         

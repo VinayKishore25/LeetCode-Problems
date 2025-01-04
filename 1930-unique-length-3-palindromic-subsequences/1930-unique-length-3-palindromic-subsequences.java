@@ -1,15 +1,28 @@
 class Solution {
-    public int countPalindromicSubsequence(String inputString) {
-        int firstIndex[] = new int[26], lastIndex[] = new int[26], result = 0;
-        Arrays.fill(firstIndex, Integer.MAX_VALUE);
-        for (int i = 0; i < inputString.length(); ++i) 
-        {
-            firstIndex[inputString.charAt(i) - 'a'] = Math.min(firstIndex[inputString.charAt(i) - 'a'], i);
-            lastIndex[inputString.charAt(i) - 'a'] = i;
+    public int getDistinctChars(String s,int f,int l){
+        HashSet<Character> hs = new HashSet<>();
+        for(int i = f + 1; i < l ; i++){
+            hs.add(s.charAt(i));
         }
-        for (int i = 0; i < 26; ++i)
-            if (firstIndex[i] < lastIndex[i])
-                result += inputString.substring(firstIndex[i] + 1, lastIndex[i]).chars().distinct().count();
+        return hs.size();
+    }
+    public int countPalindromicSubsequence(String s) {
+        int[] firstIndex = new int[26];
+        int[] lastIndex = new int[26];
+        int n = s.length();
+        Arrays.fill(firstIndex,Integer.MAX_VALUE);
+        for(int i = 0 ; i < n ; i++){
+            char ch = s.charAt(i);
+            firstIndex[ch - 'a'] = Math.min(firstIndex[ch - 'a'],i);
+            lastIndex[ch - 'a'] = Math.max(lastIndex[ch - 'a'],i);
+        }
+        int result = 0;
+        for(int i = 0 ; i < 26 ; i++){
+            if(firstIndex[i] < lastIndex[i]){
+                // System.out.println(getDistinctChars(s,firstIndex[i],lastIndex[i]));
+                result += getDistinctChars(s,firstIndex[i],lastIndex[i]);
+            }
+        }
         return result;
     }
 }

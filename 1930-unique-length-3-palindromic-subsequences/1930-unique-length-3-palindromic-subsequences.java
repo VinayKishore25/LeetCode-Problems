@@ -10,7 +10,10 @@ class Solution {
         int[] firstIndex = new int[26];
         int[] lastIndex = new int[26];
         int n = s.length();
-        Arrays.fill(firstIndex,Integer.MAX_VALUE);
+         for (int i = 0; i < 26; i++) {
+            lastIndex[i] = -1;
+            firstIndex[i] = n;
+        }
         for(int i = 0 ; i < n ; i++){
             char ch = s.charAt(i);
             firstIndex[ch - 'a'] = Math.min(firstIndex[ch - 'a'],i);

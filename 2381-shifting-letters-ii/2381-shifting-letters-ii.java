@@ -23,7 +23,7 @@ class Solution {
         String res = "";
         for(int i = 0 ; i < n ; i++ ){
             char ch = s.charAt(i);
-            res += hm.get((ch - 'a' + prefix[i] + (1300000))%26);
+            res += hm.get(((ch - 'a' + prefix[i])%26 + 26 ) % 26);
         }
         return res;
     }

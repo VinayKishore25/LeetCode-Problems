@@ -12,15 +12,17 @@ class Solution {
             indegree[prerequisites[i][0]]++;
         }
         Queue<Integer> q = new LinkedList<>();
-        List<Integer> al = new ArrayList<>();
+        // List<Integer> al = new ArrayList<>();
         for(int i = 0 ; i < numCourses ; i++){
             if(indegree[i] == 0) {
                 q.add(i);
             }
         }
+        int[] result = new int[numCourses];
+        int j = 0;
         while(!q.isEmpty()){
             int x = q.poll();
-            al.add(x);
+            result[j++] = x;
             for(int each : adj.get(x)){
                 indegree[each]--;
                 if(indegree[each] == 0){
@@ -28,12 +30,8 @@ class Solution {
                 }
             }
         }
-        if (al.size() != numCourses) {
+        if (j != numCourses) {
             return new int[0];
-        }
-        int[] result = new int[numCourses];
-        for (int i = 0; i < numCourses; i++) {
-            result[i] = al.get(i);
         }
         return result;
     }

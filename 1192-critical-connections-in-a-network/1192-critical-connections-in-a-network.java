@@ -13,7 +13,6 @@ class Solution {
                     List<Integer> bridge = new ArrayList<>();
                     bridge.add(neighbour);
                     bridge.add(node);
-                    System.out.println(bridge);
                     criticalConnection.add(new ArrayList<>(bridge));
                 }
             }

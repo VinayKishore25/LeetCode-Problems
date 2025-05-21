@@ -2,10 +2,10 @@
  * @return {Function}
  */
 var createHelloWorld = function() {
-    
-    return function(...args) {
+    const val = () => {
         return "Hello World"
     }
+    return val
 };
 
 /**

@@ -1,6 +1,9 @@
 class Solution {
-    public char kthCharacter(int k) {
-        String word = "a";
+    static String word = "a";
+    public static char kthCharacter(int k) {
+        if(word.length() > k){
+            return word.charAt(k-1);
+        }
         int temp = k;
         while(temp-- > 0 && word.length() < k){
             String res = "";
@@ -10,7 +13,7 @@ class Solution {
             
             word += res;
         }
-        // System.out.println(word);
+        
         return word.charAt(k-1);
     }
 }

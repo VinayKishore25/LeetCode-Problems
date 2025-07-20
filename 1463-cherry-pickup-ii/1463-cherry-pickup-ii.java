@@ -1,37 +1,55 @@
 class Solution {
-    int solve(int i,int j1,int j2,int[][] meetings,int[] ans,int[][][] dp)
-    {
-        if(i >= meetings.length)return 0;
-        if(j1 < 0 || j1 >= meetings[0].length) return 0;
-        if(j2 < 0 || j2 >= meetings[0].length) return 0;
-        if(dp[i][j1][j2]!=-1)return dp[i][j1][j2];
-        if(j1==j2)return 0;
-        int a = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1+1,j2+1,meetings,ans,dp);
-        int b = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1+1,j2-1,meetings,ans,dp);
-        int c = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1+1,j2,meetings,ans,dp);
-
-        int d = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1,j2+1,meetings,ans,dp);
-        int e = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1,j2-1,meetings,ans,dp);
-        int f = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1,j2,meetings,ans,dp);
-
-        int g = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1-1,j2+1,meetings,ans,dp);
-        int h = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1-1,j2-1,meetings,ans,dp);
-        int z = meetings[i][j1] + meetings[i][j2] + solve(i+1,j1-1,j2,meetings,ans,dp);
-        ans[0] = Math.max(a,Math.max(b,Math.max(c,Math.max(d,Math.max(e,Math.max(f,Math.max(g,Math.max(h,z))))))));
-        return dp[i][j1][j2] = ans[0];
-    }
     public int cherryPickup(int[][] grid) {
-        int[][][] dp = new int[71][71][71];
-        for(int[][] dp1:dp)
-        {
-            for(int[] dp2:dp1)
-            {
-                Arrays.fill(dp2,-1);
+        int n = grid.length;
+        int m = grid[0].length;
+        int[][][] dp = new int[n][m][m];
+        for(int j1 = 0 ; j1 < m ; j1++){
+            for(int j2 = 0 ; j2 < m ; j2++){
+                if(j1 == j2){
+                    dp[n-1][j1][j2] = grid[n-1][j1];
+                }
+                else{
+                    dp[n-1][j1][j2] = grid[n-1][j1] + grid[n-1][j2];
+                }
             }
         }
-        int[] ans = new int[1];
-        ans[0] = 0;
-        ans[0] = solve(0,0,grid[0].length - 1,grid,ans,dp);
-        return ans[0];
+        int[] directions = {-1,0,1};
+        for(int i = n - 2 ; i >= 0 ; i--){
+            for(int j1 = 0 ; j1 < m ; j1++){
+                for(int j2 = 0 ; j2 < m ; j2++){
+                    int value = 0;
+                    int maxi = 0;
+                    if(j1 == j2) value = grid[i][j1];
+                    else value = grid[i][j1] + grid[i][j2];
+                    if(j1 + 1 < m){
+                        if(j2 + 1 < m)
+                        maxi = Math.max(maxi,value + dp[i+1][j1+1][j2+1]);
+                        if(j2 - 1 >= 0)
+                        maxi = Math.max(maxi,value + dp[i+1][j1+1][j2-1]);
+                        maxi = Math.max(maxi,value + dp[i+1][j1+1][j2]);
+                    }
+                    if(j2 + 1 < m)
+                    maxi = Math.max(maxi,value + dp[i+1][j1][j2+1]);
+                    if(j2 - 1 >= 0)
+                    maxi = Math.max(maxi,value + dp[i+1][j1][j2-1]);
+                    maxi = Math.max(maxi,value + dp[i+1][j1][j2]);
+                    if(j1 - 1 >= 0 ){
+                        if(j2 + 1 < m)
+                        maxi = Math.max(maxi,value + dp[i+1][j1-1][j2+1]);
+                        if(j2 - 1 >= 0)
+                        maxi = Math.max(maxi,value + dp[i+1][j1-1][j2-1]);
+                        maxi = Math.max(maxi,value + dp[i+1][j1-1][j2]);
+                    }
+                    dp[i][j1][j2] = maxi;
+                }
+            }
+        }
+        int result = 0;
+        for(int j1 = 0 ; j1 < m ; j1++){
+            for(int j2 = 0 ; j2 < m ; j2++){
+                result = Math.max(result,dp[0][j1][j2]);
+            }
+        }
+        return result;
     }
 }

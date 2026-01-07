@@ -20,7 +20,7 @@ class Solution {
     public int maxProduct(TreeNode root) {
         max = 0;
         long totalSum = getTotalSum(root);
-        long dummy = maxProduct(root,totalSum);
+        maxProduct(root,totalSum);
         return (int)(max%mod);
     }
     public long getTotalSum(TreeNode root){

@@ -14,33 +14,31 @@
  * }
  */
 class Solution {
-    long value = 0;
+    static long max;
+    static long sum;
+    static long mod = 1_00_000_000_7;
     public int maxProduct(TreeNode root) {
+        max = 0;
         long totalSum = getTotalSum(root);
-        int mod = 1_00_000_000_7;
         long dummy = maxProduct(root,totalSum);
-        return (int)(value%mod);
+        return (int)(max%mod);
     }
     public long getTotalSum(TreeNode root){
         if(root == null){
             return 0;
         }
-        if(root.left == null && root.right == null){
-            return root.val;
-        }
-        long sum = root.val + getTotalSum(root.left) + getTotalSum(root.right);
-        return sum;
+        return root.val + getTotalSum(root.left) + getTotalSum(root.right);
     }
     public long maxProduct(TreeNode root,long totalSum){
         if(root == null){
             return 0;
         }
-        if(root.left == null && root.right == null){
-            value = Math.max(value,(totalSum - root.val) * root.val);
-            return root.val;
-        }
+        
         long sum = root.val + maxProduct(root.left,totalSum) + maxProduct(root.right,totalSum);
-        value = Math.max(value,(totalSum - sum) * sum);
+        long temp = (totalSum - sum) * sum;
+        if(temp > max){
+            max = temp;
+        }
         return sum;
     }
 }

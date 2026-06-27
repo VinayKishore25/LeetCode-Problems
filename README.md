@@ -21,4 +21,9 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->

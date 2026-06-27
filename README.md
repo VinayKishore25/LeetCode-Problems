@@ -10,6 +10,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -19,4 +20,5 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->

@@ -2,7 +2,7 @@ class Solution {
     public String reverseWords(String s) {
         int n = s.length();
         int end = n, start = n - 1;
-        StringBuilder sb = new StringBuilder();
+        String res = "";
         boolean flag = false;
         while(end >= 0){
             while(end > 0 && s.charAt(end - 1) == ' '){
@@ -14,12 +14,12 @@ class Solution {
                 start--;
             }
             if(flag){
-                sb.append(" ");
+                res += " ";
             }
             flag = true;
-            sb.append(s.substring(start,end));
+            res += s.substring(start,end);
             end = start;
         }
-        return sb.toString();
+        return res;
     }
 }

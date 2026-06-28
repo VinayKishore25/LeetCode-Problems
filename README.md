@@ -26,10 +26,16 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->

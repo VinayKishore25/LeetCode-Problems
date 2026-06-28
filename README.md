@@ -17,6 +17,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,8 +36,17 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0086-partition-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->

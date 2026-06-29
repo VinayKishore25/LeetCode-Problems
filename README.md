@@ -30,6 +30,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0142-linked-list-cycle-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,5 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 <!---LeetCode Topics End-->

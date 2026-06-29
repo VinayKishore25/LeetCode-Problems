@@ -10,22 +10,22 @@ class Solution {
     }
     public String reverseVowels(String s) {
         int n = s.length();
-        StringBuilder sb = new StringBuilder(s);
+        char[] ch = s.toCharArray();
         int left = 0 , right = n - 1;
         while(left < right){
-            while(left < n && !isVowel(sb.charAt(left))){
+            while(left < n && !isVowel(ch[left])){
                 left++;
             }
-            while(right > 0 && !isVowel(sb.charAt(right))){
+            while(right > 0 && !isVowel(ch[right])){
                 right--;
             }
             if(left >= right) break;
-            char ch = sb.charAt(right);
-            sb.setCharAt(right,sb.charAt(left));
-            sb.setCharAt(left,ch);
+            char temp = ch[right];
+            ch[right] = ch[left];
+            ch[left] = temp;
             left++;
             right--;
         }
-        return sb.toString();
+        return new String(ch);
     }
 }

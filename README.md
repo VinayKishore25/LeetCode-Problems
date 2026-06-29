@@ -31,6 +31,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,9 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->

@@ -21,11 +21,11 @@ class Solution {
             }
             return;
         }
-        int previousDigit = -1;
+        // int previousDigit = -1;
         for(int i = 0 ; i < n ; i++){
-            if(previousDigit == digits[i]){
-                continue;
-            }
+            // if(previousDigit == digits[i]){
+            //     continue;
+            // }
             if(visited[i]){
                 continue;
             }
@@ -37,7 +37,7 @@ class Solution {
             solve(digits,visited,sb,uniqueIntegers,n);
             sb.deleteCharAt(sb.length() - 1);
             visited[i] = false;
-            previousDigit = digits[i];
+            // previousDigit = digits[i];
         }
 
     }

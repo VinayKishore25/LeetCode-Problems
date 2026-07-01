@@ -10,6 +10,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
@@ -18,11 +19,13 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |

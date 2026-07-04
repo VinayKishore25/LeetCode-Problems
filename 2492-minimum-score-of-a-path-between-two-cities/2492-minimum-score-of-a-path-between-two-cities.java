@@ -1,5 +1,6 @@
 class Solution {
     public int minScore(int n, int[][] roads) {
+
         List<List<Pair>> adj = new ArrayList<>();
 
         for (int i = 0; i <= n; i++) {
@@ -11,35 +12,28 @@ class Solution {
             adj.get(road[1]).add(new Pair(road[0], road[2]));
         }
 
-        int[] bestFit = new int[n + 1];
-        Arrays.fill(bestFit, Integer.MAX_VALUE);
+        boolean[] visited = new boolean[n + 1];
+        Queue<Integer> q = new LinkedList<>();
 
-        Queue<Pair> q = new LinkedList<>();
-        q.offer(new Pair(1, Integer.MAX_VALUE));
+        q.offer(1);
+        visited[1] = true;
 
-        int result = Integer.MAX_VALUE;
+        int ans = Integer.MAX_VALUE;
 
         while (!q.isEmpty()) {
-            Pair current = q.poll();
-
-            int node = current.v;
-            int minWeight = current.weight;
-
-            if (node == n) {
-                result = Math.min(result, minWeight);
-            }
+            int node = q.poll();
 
             for (Pair neighbour : adj.get(node)) {
-                int currentMinimum = Math.min(minWeight, neighbour.weight);
+                ans = Math.min(ans, neighbour.weight);
 
-                if (currentMinimum < bestFit[neighbour.v]) {
-                    bestFit[neighbour.v] = currentMinimum;
-                    q.offer(new Pair(neighbour.v, currentMinimum));
+                if (!visited[neighbour.v]) {
+                    visited[neighbour.v] = true;
+                    q.offer(neighbour.v);
                 }
             }
         }
 
-        return result;
+        return ans;
     }
 }
 
@@ -47,7 +41,7 @@ class Pair {
     int v;
     int weight;
 
-    public Pair(int v, int weight) {
+    Pair(int v, int weight) {
         this.v = v;
         this.weight = weight;
     }

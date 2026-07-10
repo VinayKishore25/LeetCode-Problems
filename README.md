@@ -113,11 +113,13 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0060-permutation-sequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration

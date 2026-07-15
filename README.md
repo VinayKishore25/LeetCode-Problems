@@ -115,6 +115,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -148,4 +149,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->

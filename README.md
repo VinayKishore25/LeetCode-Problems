@@ -159,4 +159,5 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->

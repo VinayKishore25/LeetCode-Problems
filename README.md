@@ -13,6 +13,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0015-3sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0031-next-permutation/) | Medium |
+| [0047-permutations-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -24,6 +25,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -153,4 +155,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->

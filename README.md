@@ -77,6 +77,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

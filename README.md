@@ -72,6 +72,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -170,13 +171,16 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

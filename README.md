@@ -18,6 +18,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -29,6 +30,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0047-permutations-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |

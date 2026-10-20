@@ -23,6 +23,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0148-sort-list](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

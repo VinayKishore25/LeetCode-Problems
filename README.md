@@ -24,6 +24,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

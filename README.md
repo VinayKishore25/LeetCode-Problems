@@ -7,6 +7,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Sorting

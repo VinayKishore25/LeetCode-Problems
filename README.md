@@ -84,6 +84,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -131,6 +132,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |

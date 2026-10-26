@@ -24,6 +24,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -112,6 +113,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +134,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1260-shift-2d-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +175,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

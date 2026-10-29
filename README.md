@@ -106,6 +106,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0400-nth-digit](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -144,6 +145,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
+| [0400-nth-digit](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |

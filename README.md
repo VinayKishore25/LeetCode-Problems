@@ -28,6 +28,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -99,6 +100,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -141,6 +143,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |

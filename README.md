@@ -30,6 +30,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -156,6 +157,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Recursion

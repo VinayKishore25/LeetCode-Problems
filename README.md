@@ -23,6 +23,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1260-shift-2d-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -143,6 +144,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1882-process-tasks-using-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |

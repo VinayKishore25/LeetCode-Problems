@@ -21,6 +21,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -130,6 +131,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -137,6 +139,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -153,6 +156,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -202,6 +206,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
@@ -236,4 +241,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 <!---LeetCode Topics End-->

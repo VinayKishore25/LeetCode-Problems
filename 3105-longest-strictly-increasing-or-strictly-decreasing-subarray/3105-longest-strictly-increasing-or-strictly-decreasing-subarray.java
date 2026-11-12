@@ -8,9 +8,6 @@ class Solution {
             dec = 1;
             for(int j = i+1 ; j < n ; j++)
             {
-                // ans = Math.max(ans,Math.max(inc,dec));
-                // System.out.println(inc + " " + dec);
-                // System.out.println(ans);
                 if(nums[j-1] > nums[j]) 
                 {
                     inc++;

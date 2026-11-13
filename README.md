@@ -111,6 +111,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
+| [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -172,6 +173,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0231-power-of-two](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0231-power-of-two/) | Easy |
 | [0400-nth-digit](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -250,4 +252,16 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->

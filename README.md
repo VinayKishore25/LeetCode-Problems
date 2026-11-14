@@ -30,6 +30,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -122,6 +123,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +220,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |

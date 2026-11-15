@@ -24,6 +24,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1882-process-tasks-using-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -114,6 +115,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0392-is-subsequence](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -176,6 +178,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [0400-nth-digit](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -220,6 +223,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Number Theory

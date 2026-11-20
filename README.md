@@ -31,6 +31,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -57,6 +58,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3693-climbing-stairs-ii/) | Medium |

@@ -34,6 +34,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -92,6 +93,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [2243-calculate-digit-sum-of-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -228,6 +231,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -282,4 +286,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1025-divisor-game/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 <!---LeetCode Topics End-->

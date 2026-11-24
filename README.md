@@ -37,6 +37,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -140,6 +141,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | [1352-product-of-the-last-k-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2409-count-days-spent-together](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -210,6 +213,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Graph Theory
@@ -246,6 +250,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |

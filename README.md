@@ -154,6 +154,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -235,6 +236,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -298,6 +300,7 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -307,4 +310,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->

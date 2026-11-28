@@ -314,4 +314,8 @@ This is repository that saves all the codes that I have solved in LeetCode and w
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1407-top-travellers](https://github.com/VinayKishore25/LeetCode-Problems/tree/main/1407-top-travellers/) | Easy |
 <!---LeetCode Topics End-->
